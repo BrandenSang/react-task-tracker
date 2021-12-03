@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-react-task-tracker",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-Tasks",
+      "appliesTo": "src/components/Tasks.js",
+      "type": "launch"
+    }
+  ]
+}
