@@ -1,6 +1,7 @@
 import { Link } from 'react-router-dom'
 
 const Frontend_Backend_Info = () => {
+
 const headingStyle = {
         color: 'black',
         backgroundColor: ''

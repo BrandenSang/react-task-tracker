@@ -25,7 +25,7 @@ const How_To_Install = () => {
                 proceed with the payment to create your VPS.</h4>
             <img src="https://i.gyazo.com/da0784f374f979d5ec23f1fb8b7d5ce5.png" width='100%' />
 
-            <h4><br></br>Step 6: Once completed, navigate to your accounts VPS manager. From here all your information for hte VPS is displayed.</h4>
+            <h4><br></br>Step 6: Once completed, navigate to your accounts VPS manager. From here all your information for the VPS is displayed.</h4>
             <img src="https://i.gyazo.com/9b6de49705208600441898600eeac2da.png" width='100%' />
 
             <h4><br></br>Step 7: Download putty using the link under SSH details and connect to the SSH IP to access your server. Click Open to connect.</h4>
@@ -79,8 +79,25 @@ const How_To_Install = () => {
                         type ll into the command line to view the files in the folder. Proceed with the following.</h4>
             <img src="https://i.gyazo.com/3a172891298dcce47a353320ca4c4165.png" width='100%' />
 
-            <h4><br></br>Step 20: once in the directory, install npm.</h4>
+            <h4><br></br>Step 20: Once in the directory, install npm.</h4>
             <img src="https://i.gyazo.com/53a1dec55db365fad0f1585df94f6922.png" width='100%' />
+
+
+            <h4><br></br>Step 21: Once you install npm, run the npm build wit the following command.</h4>
+            <img src="https://i.gyazo.com/e7fd3ba83faedb66a2b310535ed23286.png" width='100%' />
+
+            <h4><br></br>Step 22: Once your build is complete, list the files using ll in command line. If build is there, it is complete. Once verified, run the following line to
+                        copy the build to your html folder.</h4>
+            <img src="https://i.gyazo.com/468e9ff48215fdf5a3ffb89e9db51c67.png" width='100%' />
+            <img src="https://i.gyazo.com/b995c27dd7559a68ff31fbf5594278c4.png" width='100%' />
+
+            <h4><br></br>Step 23: When the build is copied over, go to a web browser and type in your VPS IP into the search bar. If you have another page pop up (like the apache2 server page) don't panic!
+                        Just refresh the page and youre build will be running!</h4>
+            <img src="https://i.gyazo.com/5fa2d4432c5eb7c20316adfa8ef7e9a1.png" width='100%' />
+
+            <h4><br></br>END OF TUTORIAL! CONGRATS!</h4>
+            <img src="https://img.freepik.com/free-vector/congrats-greeting-card_53876-82116.jpg?size=338&ext=jpg" width='100%' />
+
             
             
             
